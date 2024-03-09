@@ -1,6 +1,7 @@
 
 # Setup-Frida-Mitmproxy-on-emulator
 Detailed Setup up frida tool and mitmproxy server on emulator 
+
 ***I have done the setup in windows 11 operating system 
 
 ## Step-1: Create an android emulator
